@@ -1,0 +1,3 @@
+Dies ist eine Test-Datei für das Git-Commit.
+Erstellt am: 24.09.2025
+Zweck: Test der GitHub-Verbindung
